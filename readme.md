@@ -42,7 +42,7 @@ Once the installation is complete, you should see output similar to the screensh
 
 Browse to the address and you should see something along the lines of this (will depend on your browser):
 
-<p align="center"><img src="./content/tls-warn.png)" width=400 ></img></p>
+<p align="center"><img src="./content/tls-warn.png" width=400 ></img></p>
 
 Click on 'Continue to Setup' and follow the prompts to continue.
 
