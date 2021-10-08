@@ -38,7 +38,7 @@ This will download and install kubernetes on the Linux host. For the installatio
 
 Once the installation is complete, you should see output similar to the screenshot below. Scroll up if needed, to find the url for `Kotsadm`. Note the password as well.
 
-![Terminal Output](./content/term-output.png)
+<p align="center"><img src=./content/term-output.png)></img></p>
 
 Browse to the address and you should see something along the lines of this (will depend on your browser):
 
