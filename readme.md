@@ -46,7 +46,7 @@ Browse to the address and you should see something along the lines of this (will
 
 Click on 'Continue to Setup' and follow the prompts to continue.
 
-The following screen will give you an option to upload a cert to secure the connection to the Admin Console. For this lab we'll skip that step and just click on "Skip & Continue"
+The following screen will give you an option to upload a cert to secure the connection to the Admin Console. For this lab we'll skip that step and just click on 'Skip & Continue'
 
 <p align="center"><img src="./content/upload-certs.png" width=400 ></img></p>
 
