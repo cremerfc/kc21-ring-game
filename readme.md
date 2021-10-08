@@ -38,7 +38,7 @@ This will download and install kubernetes on the Linux host. For the installatio
 
 Once the installation is complete, you should see output similar to the screenshot below. Scroll up if needed, to find the url for `Kotsadm`. Note the password as well.
 
-<p align="center"><img src="./content/term-output.png" width=400 ></img></p>
+<p align="center"><img src="./content/term-output.png" width=500 ></img></p>
 
 Browse to the address and you should see something along the lines of this (will depend on your browser):
 
@@ -74,11 +74,11 @@ Click on the 'Details' link to get more information. The dialog will display whi
 
 Click on the 'Troubleshoot' button to take you to the tab by the same name:
 
-<p align="center"><img src="./content/troubleshoot-page.png" width=450 ></img></p>
+<p align="center"><img src="./content/troubleshoot-page.png" width=650 ></img></p>
 
 Once there, Click on the 'Generate Support Bundle' button. This may take a few minutes and while it is generating, you should see a progress bar similar to this one:
 
-<p align="center"><img src="./content/bundle-progress.png" width=450 ></img></p>
+<p align="center"><img src="./content/bundle-progress.png" width=650 ></img></p>
 
 Once the Support Bundle is finished running it should display the following tile(s). Looks like the problem is that we are missing a configuration file. 
 
