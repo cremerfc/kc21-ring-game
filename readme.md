@@ -64,7 +64,7 @@ Did the Application Deploy?
 
 After preflights, you should arrive at this window:
 
-<p align="center"><img src="(./content/admin-console.png" width=400 ></img></p>
+<p align="center"><img src="./content/admin-console.png" width=400 ></img></p>
 
 As you can see, the status of the app is spinning. Something is wrong with the app and is not coming up.
 Click on the 'Details' link to get more information. The dialog will display which workloads or services may be malfunctioning.
