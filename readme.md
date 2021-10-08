@@ -42,13 +42,13 @@ Once the installation is complete, you should see output similar to the screensh
 
 Browse to the address and you should see something along the lines of this (will depend on your browser):
 
-![TLS Warning](./content/tls-warn.png)
+<p align="center"><img src="./content/tls-warn.png)" width=400 ></img></p>
 
 Click on 'Continue to Setup' and follow the prompts to continue.
 
 The following screen will give you an option to upload a cert to secure the connection to the Admin Console. For this lab we'll skip that step and just click on "Skip & Continue"
 
-![Upload Certificates](./content/upload-certs.png)
+<p align="center"><img src="./content/upload-certs.png" width=400 ></img></p>
 
 At the login screen, enter the password provided in the terminal output. If you closed the terminal and no longer have access to the password, you can reset it by running the following command (hint: make sure to run <code>bash -l</code> on the terminal before running any other commands):
 
@@ -64,7 +64,7 @@ Did the Application Deploy?
 
 After preflights, you should arrive at this window:
 
-![Admin Console](./content/admin-console.png)
+<p align="center"><img src="(./content/admin-console.png" width=400 ></img></p>
 
 As you can see, the status of the app is spinning. Something is wrong with the app and is not coming up.
 Click on the 'Details' link to get more information. The dialog will display which workloads or services may be malfunctioning.
