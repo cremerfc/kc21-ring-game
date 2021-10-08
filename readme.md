@@ -19,7 +19,7 @@ If you do not have the IP address of your VM, please let us know. This should ha
 To connect to the VM, we will `ssh` into it. We have created a default user named 'kots' to use. For example, you may run something like:
 
 ```shell
-$ ssh kots@{IP_Address}
+ssh kots@{IP_Address}
 ```
 
 We'll provide the default password in the session.
@@ -29,7 +29,7 @@ We'll provide the default password in the session.
 Once you have logged in to the remote host, paste the following install command
 
 ```shell
- $ curl -sSL https://k8s.kurl.sh/ringquestapp | sudo bash
+curl -sSL https://k8s.kurl.sh/ringquestapp | sudo bash
 ```
 
 This will download and install kubernetes on the Linux host. For the installation of the cluster, we are leveraging [KURL](https://kurl.sh) which is a Replicated Open Source project. This project allows you define Kubernetes Add-ons, including the version and some configurations. One of the Add-ons that will be deployed is [KOTS](https://kots.io), which is another Replicated Open Source project. This project helps people manage the deployment and maintenance of Off-the-Shelf Kubernetes Applications.
@@ -53,7 +53,7 @@ The following screen will give you an option to upload a cert to secure the conn
 At the login screen, enter the password provided in the terminal output. If you closed the terminal and no longer have access to the password, you can reset it by running the following command (hint: make sure to run <code>bash -l</code> on the terminal before running any other commands):
 
 ```bash script
-$ kubectl kots passwordreset ringquestapp -n default
+kubectl kots passwordreset ringquestapp -n default
 ```
 
 Once you are logged in, you will be prompted to choose the level of difficulty. The harder the challenge the bigger the rewards! The more difficult option will have you spend more time in the terminal running `kubectl` commands.
