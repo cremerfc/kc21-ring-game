@@ -58,7 +58,7 @@ $ kubectl kots reset-password -n default
 
 Once you are logged in, you will be prompted to upload a license. Download [this yaml file](./Lab_Participant.yaml), and drop it into the license box. Next you'll be asked to choose the level of difficulty. The harder the challenge the bigger the rewards! The more difficult option will have you spend more time in the terminal running `kubectl` commands.
 
-Once you choose your difficulty level, KOTS will run a series of preflights to ensure everything is ready to deploy our application. The preflights leverage another Open Source project from Replicated, called [Troubleshoot](https://troubleshoot.sh). This project allows you to declratively define collectors and analyzers to help troubleshoot Kubernetes Applications.
+Once you choose your difficulty level, KOTS will run a series of preflights to ensure everything is ready to deploy our application. The preflights leverage another Open Source project from Replicated, called [Troubleshoot](https://troubleshoot.sh). This project allows you to declaratively define collectors and analyzers to help troubleshoot Kubernetes Applications.
 
 Did the Application Deploy?
 
