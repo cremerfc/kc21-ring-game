@@ -62,6 +62,7 @@ If you do not have the IP address of your VM, please let us know. This should ha
 
 1. Click 'Skip & Continue' on the screen for uploading a cert.
 
+
     This is used to provide the admin console a cert to secure the connection. This is not required for this lab.
 
     <p align="center"><img src="./content/upload-certs.png" width=400 ></img></p>
