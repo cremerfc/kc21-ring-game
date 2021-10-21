@@ -69,6 +69,8 @@ If you do not have the IP address of your VM, please let us know. This should ha
 
 1. Enter the password provided from the terminal output at the login screen.
 
+1. Upload the license provided in this repo (LAB_Participant.yaml). You can either download the file or create a new file and paste the contents of the file.
+
 1. Choose the lab type and difficulty level in the configuration screen. The harder the challenge the bigger the rewards!
 
     > The "Hard" option will have you spend more time in the terminal running `kubectl` commands.
