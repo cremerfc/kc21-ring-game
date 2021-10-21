@@ -69,7 +69,7 @@ If you do not have the IP address of your VM, please let us know. This should ha
 
 1. Enter the password provided from the terminal output at the login screen.
 
-1. Upload the license provided in this repo (LAB_Participant.yaml). You can either download the file or create a new file and paste the contents of the file.
+1. Upload the [license file](https://github.com/cremerfc/kc21-ring-game/blob/main/Lab_Participant.yaml) provided in this repo. You can either download the file or create a new file and paste the contents of the file.
 
 1. Choose the lab type and difficulty level in the configuration screen. The harder the challenge the bigger the rewards!
 
